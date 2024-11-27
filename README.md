@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ishan Chaudhary! 👋
 
 Welcome to my GitHub profile! I'm a **Bachelor of Science student majoring in Computer Science** at the **University of Melbourne**, with a passion for **coding**, **problem-solving**, and **building impactful projects**. 🚀
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Bachelor of Science student majoring in Co
 - 🌱 Currently honing my skills in **C programming**, **data structures**, **PostgreSQL**, **TypeScript**, and **full-stack development**.
 - 🎮 I love developing games! My projects often involve creative implementations using frameworks like **Bagel** and game mechanics inspired by **classic puzzle-solving challenges**.
 - 📊 I'm enthusiastic about database design and API development, with experience in **Node.js**, **Express.js**, and **Sequelize ORM**.
-- 🌟 Outside of coding, I enjoy playing and watching sports, mentoring my **11-year-old sister**, and exploring **new technologies** to expand my skill set.
+- 🌟 Outside of coding, I enjoy playing and watching sports, mentoring, and exploring **new technologies** to expand my skill set.
 
 ---
 
@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a **Bachelor of Science student majoring in Co
 - **C/C++**: Working on memory-efficient, optimized algorithms.
 - **SQL**: Designing relational database schemas and querying data effectively.
 - **Python**: For scripting and data analysis.
+- **Java**: For game development.
 
 ### Frameworks & Tools:
 - **Node.js & Express.js**: Backend API development.
